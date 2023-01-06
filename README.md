@@ -1,0 +1,2 @@
+# pickomino
+jeu_picko
